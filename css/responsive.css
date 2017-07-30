@@ -6,9 +6,9 @@ figure {
     width: 33%;
 }
 
-@media (min-width:993px) {
+@media screen and (min-width:993px) {
     #gallery {
-        width: 90%;
+        width: 98%;
     }
 }
 
